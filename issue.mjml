@@ -27,9 +27,9 @@
       </mj-section>
       <mj-section background-color="#f0f0f0">
         <mj-column>
-          <mj-text align="center"><a href="https://www.thisweekin.technology/issues/{number}/">View this issue online</a> or our <a href="https://www.thisweekin.technology/issues/" title="Past issues">past issues</a>.</mj-text>
-          <mj-text align="center">This Week in Technology is made with ❤ by <a href="https://jloh.co/" text="jloh's blog">jloh</a>. You signed up on <a href="https://www.thisweekin.technology">thisweekin.technology</a>.</mj-text>
-          <mj-text align="center">If you would prefer to no longer recieve emails you can <a href="[unsubscribe]">unsubscribe here</a>.</mj-text>
+          <mj-text align="center" padding-bottom="5px" padding-top="5px" font-size="12px">You can <a href="https://www.thisweekin.technology/issues/{number}/">view this issue online</a> or checkout our <a href="https://www.thisweekin.technology/issues/" title="Past issues">past ones</a>.</mj-text>
+          <mj-text align="center" padding-bottom="5px" padding-top="5px" font-size="12px">Byte by byte is made with ❤ by <a href="https://jloh.co/" text="jloh's blog">jloh</a>. You signed up at <a href="https://www.thisweekin.technology">thisweekin.technology</a> with [Email].</mj-text>
+          <mj-text align="center" padding-bottom="5px" padding-top="5px" font-size="12px">If you would prefer to no longer recieve emails you can <a href="[unsubscribe]">unsubscribe here</a>.</mj-text>
         </mj-column>
       </mj-section>
     </mj-container>
