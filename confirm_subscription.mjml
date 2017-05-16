@@ -1,0 +1,29 @@
+<mjml>
+  <mj-head>
+    <mj-title>This Week in Technology: Confirm Subscription</mj-title>
+  </mj-head>
+  <mj-body>
+    <mj-container>
+      <mj-section>
+        <mj-column>
+
+          <mj-text font-style="bold" font-size="20px" font-family="Helvetica Neue" color="#626262" align="center">This Week in Technology</mj-text>
+
+          <mj-divider border-color="#e4e5e6"></mj-divider>
+
+          <mj-text font-size="20px" color="#2d3e4f" font-family="helvetica">Please Confirm Your Subscription</mj-text>
+
+          <mj-text>Thanks for subscribing to This Week in Technology. Please click or copy and paste the link below to confirm your subscription.</mj-text>
+          
+          
+            <mj-button href="[confirmation_link]">Yes, subscribe me to the list</mj-button>
+          
+          <mj-text>Link: <a href="[confirmation_link]">[confirmation_link]</a></mj-text>
+          
+          <mj-text>If you received this email by mistake, simply delete it. You won't be subscribed if you don't click the confirmation link above. Otherwise if you have any questions please don't hesitate to reach out at <a href="https://www.thisweekin.technology">https://www.thisweekin.technology</a> or <a href="mailto:james@thisweekin.technology">james@thisweekin.technology</a></mj-text>
+
+        </mj-column>
+      </mj-section>
+    </mj-container>
+  </mj-body>
+</mjml>
