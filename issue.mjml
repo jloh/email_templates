@@ -1,19 +1,19 @@
 <mjml>
   <mj-head>
-    <mj-title>This Week in Technology: Issue #{number}</mj-title>
+    <mj-title>Byte by Byte: Issue #{number}</mj-title>
   </mj-head>
   <mj-body>
     <mj-container>
       <mj-section background-color="#f0f0f0">
         <mj-column>
-          <mj-text font-style="bold" font-size="20px" font-family="Helvetica Neue" color="#626262" align="center"> <img src="https://www.thisweekin.technology/favicon-32x32.png" style="vertical-align: middle;" alt="This Week in Technology logo"></img> This Week in Technology</mj-text>
+          <mj-text font-style="bold" font-size="20px" font-family="Helvetica Neue" color="#626262" align="center"> <img src="https://www.bytebybyte.io/favicon-32x32.png" style="vertical-align: middle;" alt="Byte by Byte logo"></img> Byte by Byte</mj-text>
           <mj-divider border-color="#e4e5e6"></mj-divider>
           <mj-text font-style="bold" font-size="18px" font-family="Helvetica Neue" color="#626262" align="center">Issue #{number}: {title}</mj-text>
         </mj-column>
       </mj-section>
       <mj-section background-color="#fafafa">
         <mj-column>
-          <mj-text color="#2d3e4f" font-family="helvetica">{date} | <a href="https://www.thisweekin.technology/issues/{number}/">View this issue online</a></mj-text>
+          <mj-text color="#2d3e4f" font-family="helvetica">{date} | <a href="https://www.bytebybyte.io/issues/{number}/">View this issue online</a></mj-text>
           <mj-text>{blurb}</mj-text>
           <mj-divider border-color="#e4e5e6"></mj-divider>
 
@@ -27,7 +27,7 @@
       </mj-section>
       <mj-section background-color="#f0f0f0">
         <mj-column>
-          <mj-text align="center" padding-bottom="5px" padding-top="5px" font-size="12px">You can <a href="https://www.thisweekin.technology/issues/{number}/">view this issue online</a> or checkout our <a href="https://www.thisweekin.technology/issues/" title="Past issues">past ones</a>.</mj-text>
+          <mj-text align="center" padding-bottom="5px" padding-top="5px" font-size="12px">You can <a href="https://www.bytebybyte.io/issues/{number}/">view this issue online</a> or checkout our <a href="https://www.bytebybyte.io/issues/" title="Past issues">past ones</a>.</mj-text>
           <mj-text align="center" padding-bottom="5px" padding-top="5px" font-size="12px">Byte by byte is made with ❤ by <a href="https://jloh.co/" text="jloh's blog">jloh</a>. You signed up at <a href="https://www.thisweekin.technology">thisweekin.technology</a> with [Email].</mj-text>
           <mj-text align="center" padding-bottom="5px" padding-top="5px" font-size="12px">If you would prefer to no longer recieve emails you can <a href="[unsubscribe]">unsubscribe here</a>.</mj-text>
         </mj-column>

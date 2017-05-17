@@ -1,19 +1,19 @@
 <mjml>
   <mj-head>
-    <mj-title>This Week in Technology: Subscription Confirmed</mj-title>
+    <mj-title>Byte by Byte: Subscription Confirmed</mj-title>
   </mj-head>
   <mj-body>
     <mj-container>
       <mj-section>
         <mj-column>
 
-          <mj-text font-style="bold" font-size="20px" font-family="Helvetica Neue" color="#626262" align="center">This Week in Technology</mj-text>
+          <mj-text font-style="bold" font-size="20px" font-family="Helvetica Neue" color="#626262" align="center">Byte by Byte</mj-text>
 
           <mj-divider border-color="#e4e5e6"></mj-divider>
 
           <mj-text font-size="20px" color="#2d3e4f" font-family="helvetica">Subscription confirmed! 🎉</mj-text>
 
-          <mj-text>Thanks for subscribing to This Week in Technology and welcome to the mailing list!</mj-text>
+          <mj-text>Thanks for subscribing to Byte by Byte and welcome to the mailing list!</mj-text>
           <mj-text align="center">Our weekly email is sent out every
             <b>Sunday</b>.
           </mj-text>
@@ -22,8 +22,8 @@
       </mj-section>
       <mj-section background-color="#f0f0f0">
         <mj-column>
-          <mj-text align="center" padding-bottom="5px" padding-top="5px" font-size="12px">This Week in Technology is made with ❤ by <a href="https://jloh.co/" text="jloh's blog">jloh</a>.</mj-text>
-          <mj-text align="center" padding-bottom="5px" padding-top="5px" font-size="12px">You signed up on <a href="https://www.thisweekin.technology">thisweekin.technology</a></mj-text>
+          <mj-text align="center" padding-bottom="5px" padding-top="5px" font-size="12px">Byte by Byte is made with ❤ by <a href="https://jloh.co/" text="jloh's blog">jloh</a>.</mj-text>
+          <mj-text align="center" padding-bottom="5px" padding-top="5px" font-size="12px">You signed up on <a href="https://www.bytebybyte.io">bytebybyte.io</a></mj-text>
         </mj-column>
       </mj-section>
     </mj-container>
