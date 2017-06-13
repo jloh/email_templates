@@ -1,0 +1,19 @@
+<mjml>
+  <mj-body>
+    <mj-container>
+      <mj-section>
+        <mj-column font-family="helvetica">
+
+          <mj-text font-size="15px">Hey! James here from <i>Byte by Byte</i> 🚀</mj-text>
+
+          <mj-text font-size="15px">You're now two weeks into your subscription and I wanted to reach out and see how things were going. Do you like the artciles we're linking? Want to see some different content? Let us know! Mash reply on this email and your thoughts will go to a real human, I promise. 📧</mj-text>
+          
+          <mj-text font-size="15px">If you just want to get more involved with the newsletter checkout our <a href="https://github.com/jloh/bytebybyte" title="Byte by Byte GitHub">weekly issues on GitHub</a> or our <a href="https://meta.jloh.co/c/byte" title="Byte by Byte Forum">Discourse forum</a>. Don't forget to just drop by <a href="https://www.bytebybyte.io/">the website</a> as well, we'd love to hear from you.</mj-text>
+
+          <mj-text font-size="15px">Cheers,<br>James</mj-text>
+
+        </mj-column>
+      </mj-section>
+    </mj-container>
+  </mj-body>
+</mjml>
